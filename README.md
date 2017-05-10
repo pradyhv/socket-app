@@ -1,2 +1,1 @@
-# socket-app
-Node Js module 6 assignment
+# module-6-socket-app
